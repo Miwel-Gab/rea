@@ -7,5 +7,4 @@ REA es un conjunto de herramientas y agentes diseñados para realizar ingenierí
 * **Inspección profunda:** Analiza desde el comportamiento de la interfaz y la lógica hasta el nivel de código fuente y binarios.
 * **Integración con Model Context Protocol (MCP):** Conéctate directamente con tus herramientas y editores de código compatibles.
 
----
-*Para más detalles sobre la configuración avanzada, consulta la documentación en el repositorio original.*
+*Para más detalles sobre la configuración avanzada, consulta la documentación oficial en el repositorio de [morluto/rea](https://github.com/morluto/rea).*
