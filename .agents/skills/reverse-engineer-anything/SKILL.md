@@ -30,4 +30,4 @@ Si las herramientas de REA están disponibles, procede directamente al objetivo.
 Elige la primera herramienta según el objetivo proporcionado:
 - **APK de Android o código**: `inspect_android_package`, seguido de herramientas especializadas de Android.
 - **Árbol de JavaScript / ASAR / Electron**: `analyze_javascript_application`.
-- **Archivos comprimidos / Paquetes (ZIP, IPA, etc.)**: `open_binary` e `inspect_artifact`.
+- **Archivos comprimidos / Paquetes (ZIP, IPA, etc.)**: `open_binary` e `inspect_artifact.
